@@ -1,0 +1,5 @@
+docs/_build
+*.pyc
+build/
+dist/
+pyllegro.egg-info/
