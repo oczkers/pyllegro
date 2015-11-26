@@ -4,7 +4,9 @@ python:
   - 2.7
   - 3.2
   - 3.3
-  #- pypy
+  - 3.4
+  - 3.5
+  - pypy
 script: make test
 install:
   - make test-deps

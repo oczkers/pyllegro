@@ -36,7 +36,7 @@ setup(
     download_url='https://github.com/oczkers/%s/releases' % __title__,
     bugtrack_url='https://github.com/oczkers/%s/issues' % __title__,
     platforms='any',
-    keywords='%s allegro api wrapper' % __title__,
+    keywords='%s allegro api webapi wrapper' % __title__,
     packages=packages,
     package_data={'': ['LICENSE']},
     package_dir={__title__: __title__},
@@ -58,6 +58,8 @@ setup(
         # 'Programming Language :: Python :: 3.1',  # not tested
         'Programming Language :: Python :: 3.2',
         'Programming Language :: Python :: 3.3',
+        'Programming Language :: Python :: 3.4',
+        'Programming Language :: Python :: 3.5',
         # 'Programming Language :: Python :: Implementation :: CPython',  # not tested
         # 'Programming Language :: Python :: Implementation :: IronPython',  # not tested
         'Programming Language :: Python :: Implementation :: PyPy',
