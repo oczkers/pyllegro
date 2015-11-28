@@ -1,5 +1,5 @@
 pyllegro
-=====
+========
 
 .. image:: https://travis-ci.org/oczkers/pyllegro.png?branch=master
         :target: https://travis-ci.org/oczkers/pyllegro
